@@ -15,3 +15,8 @@ Le fichier Mall_Customer.csv contient les informations suivantes sur les clients
 Le fichier segmentation_clustering.ipynb contient le code et l'analyse des données.<br>
 Clustering.csv contient les données des groupes formés lors de l'analyse.<br>
 Bivariate_clustering.png est une représentation visuelle des groupes.
+
+Après l'analyse des données, on conclu que le groupe de clients à privilégier dans la stratégie marketing a en moyenne:
+1. 33 ans
+2. Un salaire annuel de 87k$
+3. Un Spending Score de 82
