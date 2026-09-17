@@ -22,7 +22,7 @@ Après l'analyse des données, on conclu que le groupe de clients à privilégie
 3. Un Spending Score de 82
 On peut aussi noter que ce groupe de client est majoritairement composé de femmes (53% de femmes, 46% d'hommes).<br>
 
---
+---
 The data used in this project is from Kaggle. <br>
 https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation <br>
 Mall_Customers.csv 
